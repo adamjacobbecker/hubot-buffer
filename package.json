@@ -1,6 +1,6 @@
 {
   "name": "hubot-buffer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hubot interface for Buffer",
   "main": "index.coffee",
   "scripts": {
@@ -14,7 +14,7 @@
     "hubot",
     "buffer"
   ],
-  "author": "Adam Jacob Becker",
+  "author": "adamjacobbecker",
   "license": "MIT",
   "dependencies": {
     "hubot": ">= 2.4.0",
