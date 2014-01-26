@@ -1,0 +1,25 @@
+{
+  "name": "hubot-buffer",
+  "version": "0.0.1",
+  "description": "Hubot interface for Buffer",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamjacobbecker/hubot-buffer"
+  },
+  "keywords": [
+    "hubot",
+    "buffer"
+  ],
+  "author": "Adam Jacob Becker",
+  "license": "MIT",
+  "dependencies": {
+    "hubot": ">= 2.4.0",
+    "underscore": "1.5.2",
+    "underscore.string": "2.3.3",
+    "request": "2.33.0"
+  }
+}
