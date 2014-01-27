@@ -1,3 +1,11 @@
+# Commands:
+#   hubot <service> buffer <text>
+#   hubot buffer <text>
+#   hubot immediate <service> buffer <text>
+#   hubot immediate buffer <text>
+#   hubot show (me) (my) <service> buffer
+#   hubot show (me) (my) sent <service> buffer
+
 _ = require('underscore')
 _s = require('underscore.string')
 request = require('request')
